@@ -1,7 +1,5 @@
 # Blog
-This repository serves to document my learning of using Javascript and Node.js to host a site on Heroku, using EJS to create templates and Layouts.
-
-The site is a signup form for a newsletter. The signup list is maintained using MailChimp's API.
+This is a blog where one can compose posts and view posts. This repository serves to document my learning of using Javascript and Node.js to host a site on Heroku, using EJS to create templates and Layouts. I used MongoDB via Mongoose as a database to store the posts of the blog. 
 
 
 ## What I Have Used
@@ -14,6 +12,9 @@ To deploy and host server
 
 **EJS**
 Uses EJS to create templates and layouts
+
+**MongoDB and Mongoose**
+To store composed blog posts
 
 **Bootstrap**
 Design of webpage
